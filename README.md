@@ -17,3 +17,5 @@ Available commands:
 '/endgame' - Triggers a game over.
 
 Made for Puck Sudamérica, but you can use it on your server.
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=3498768292
